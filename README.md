@@ -6,7 +6,7 @@ Dataset about patients suffering from heart diseases: [Heart Disease patients | 
 
 
 ## Techonolgies:
-pandas, numpy, sckit-learn
+pandas, numpy, scikit-learn
 
 ## Stages:
 
